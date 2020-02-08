@@ -1,6 +1,6 @@
 /* Conformable Wearable Battery Display Screen
  *  CWB read script by Dan Miliken
- *  LCD progress bar script found here: https://www.electronicsblog.net/arduino-lcd-horizontal-progress-bar-using-custom-characters/
+ *  LCD progress bar script found here: https://forum.arduino.cc/index.php?topic=180678.0
  *  Implemented/Slightly changed by nolan pearce
  *  Uses Inventus Power CWB, Arduino uno, 
  *  Wiring for LCD found here: https://www.hacktronics.com/Tutorials/arduino-character-lcd-tutorial.html
